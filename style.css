@@ -43,8 +43,12 @@ article {
 .headings, .content p {
     line-height: 50px;
     margin-top: 5px;
-    background: #eee;
+    background: #ebebeb;
     color: #777;
+}
+
+.content {
+    margin-top: -5px;
 }
 
 aside {
